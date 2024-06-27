@@ -4,7 +4,7 @@ Here's the README in English:
 
 # BETA - NPC Reduce (By pblo) beta-1.0.4.2
 
-![BETA - NPC Reduce](https://proxy.spigotmc.org/a3dcf62a922b866d2e24a544c41cda97085629fa?url=https%3A%2F%2Fi.imgur.com%2FbW3FbPS.png)
+![BETA - NPC Reduce](https://www.spigotmc.org/data/resource_icons/112/112568.jpg)
 
 ## Description
 If you want to improve your REDUCE techniques, this is the easiest way to do it.
