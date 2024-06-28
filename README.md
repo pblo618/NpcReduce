@@ -71,7 +71,7 @@ Ex.: "/rdc config hologram &b[-&6Hit-to-start-&b]"
 ## Permission
 minecraft.op (opperator permission's is needed in setup configuration)
 
-##Setup
+## Setup
 1. Download all dependencies and the .sk file;
 2. Add the plugins and folder to your server's plugins folder and then start it;
 3. Join and setup your lobby.
@@ -82,11 +82,11 @@ Setup a map & npc;
 /rdc setup [map-name]
 Leave from setup ( /quit ) and go to NPC Join.
 
-##Atual Features
+## Atual Features
 - Inventory Sortment;
 - No MySQL required.
 
-##To-Do
+## To-Do
 - Map Selector;
 - Spectate Players;
 - Block reset animations / styles;
