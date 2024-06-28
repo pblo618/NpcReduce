@@ -26,16 +26,16 @@ If you want to improve your REDUCE techniques, this is the easiest way to do it.
 **Note:** If a version is specified, the script will probably not work on a different version.
 
 ### Required
-- [Citizen](https://www.spigotmc.org/resources/citizens.13811/) (v2.0.32-SNAPSHOT)
-- [Sentinel](https://www.spigotmc.org/resources/sentinel.22017/) (v2.7.3-SNAPSHOT-b505)
+- [Citizen](https://ci.citizensnpcs.co/job/citizens2/3120/) (v2.0.32-SNAPSHOT)
+- [Sentinel](https://www.spigotmc.org/resources/sentinel.22017/download?version=489512) (v2.7.3-SNAPSHOT-b505)
 - [Skript](https://github.com/SkriptLang/Skript/releases) (v2.2) (likely the first version)
-- Other Skript addons. [Download here](https://github.com/SkriptLang/Skript-Addon)
+- Other Skript addons. [Download here](https://github.com/pblo618/NpcReduce/raw/main/Dependencies.rar)
 
 ### Recommended
-- [Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/) (v2.5-b699)
-- [VoidGen](https://www.spigotmc.org/resources/voidgen.25391/) (v2.2.1)
-- [RandomKB](https://www.spigotmc.org/resources/randomkb.56576/) (v1.55.5)
-- [PAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) (v2.11.3)
+- [Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/history) (v2.5-b699)
+- [VoidGen](https://www.spigotmc.org/resources/voidgen.25391/history) (v2.2.1)
+- [RandomKB](https://www.spigotmc.org/resources/randomkb.48891/history) (v1.55.5)
+- [PAPI](https://www.spigotmc.org/resources/placeholderapi.6245/history) (v2.11.3)
 
 ## Installation Instructions
 1. Add all plugins.
